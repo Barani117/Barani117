@@ -4,4 +4,4 @@ print("All keys:", keys)
 values = my_dict.values()
 print("All values:", values)
 items = my_dict.items()
-print("Key-value pairs:", items
+print("Key-value pairs:", items)
